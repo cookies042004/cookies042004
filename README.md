@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech CSE @ SRM Institute of Science & Technology** (9.54 GPA)
+- 🎓 **B.Tech CSE @ SRM Institute of Science & Technology**
 - 💼 **Software Development Intern @ Grow Infinity Realtors**
 - ⚡ Improved website performance (**30–40% faster LCP**)
 - 🧠 Strong in **Data Structures & Algorithms + OOP**
